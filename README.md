@@ -1,6 +1,4 @@
 # Big_Integer
-Arithmetic operations performed on big integers.
-compiled the program by the help of the make file.
 INSTRUCTION TO COMPILE:-
 First unzip the gmp file.
 then setup mingw for make file
