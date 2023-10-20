@@ -2,6 +2,7 @@
 Arithmetic operations performed on big integers.
 compiled the program by the help of the make file.
 INSTRUCTION TO COMPILE:-
+First unzip the gmp file.
 First setup mingw for make file
 Then create 2 directory obj and bin in the same path where all the others files are available 
 Then give path in the terminal of mingw
